@@ -4,7 +4,7 @@ With more than 3 years of experience in the area, I had the opportunity to work 
 
 ##
 
-# 💻 Tech Stack
+# 💻 Skills
 <div>
     <img align="center" alt="Bruno-Grafic" src="https://github-readme-stats.vercel.app/api?username=Bruno-Candeu&show_icons=true&theme=darcula">
     <img align="center" style="margin: 15" alt="Bruno-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candeu&hide_progress=true&theme=darcula">
