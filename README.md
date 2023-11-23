@@ -27,3 +27,7 @@ With more than 3 years of experience in the area, I had the opportunity to work 
     <a href = "mailto:n_udak_21@pm.me"><img src="https://img.shields.io/badge/protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/BrunoCandeu-Developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
 </div>
+
+##
+
+![snake gif](https://github.com/bruno-candeu/bruno-candeu/blob/output/github-contribution-grid-snake.gif)
