@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-I'm Bruno Candeu! a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
-With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+My name is Bruno Candeu! I'm a software developer and technology enthusiast. I currently work as a Delphi Software Developer. <br>
+With more than 3 years of experience in the area, I had the opportunity to work on several interesting projects and explore different technologies.
 
 
 <div>
