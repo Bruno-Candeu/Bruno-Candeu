@@ -1,9 +1,8 @@
 ## Oiii meu nome é Bruno Candeu!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-![Bruno Candeu](https://github-readme-stats.vercel.app/api?username=Bruno-Candeu&show_icons=true&theme=darcula)
+<div>
+    ![Bruno Candeu](https://github-readme-stats.vercel.app/api?username=Bruno-Candeu&show_icons=true&theme=darcula)
+    [dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&  cache_seconds=86400&theme=dracula  
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
