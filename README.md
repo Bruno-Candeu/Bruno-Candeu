@@ -1,5 +1,7 @@
-## <h1>Hi there 👋<h1>
-i'm Bruno Candeu!
+# 👋 Hi there
+
+I'm Bruno Candeu! a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
+With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 <div>
