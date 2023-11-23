@@ -1,7 +1,7 @@
 ## Oiii 🖐 Sou o Bruno Candeu!
 <div>
     <img align="center" alt="Bruno-Grafic" src="https://github-readme-stats.vercel.app/api?username=Bruno-Candeu&show_icons=true&theme=darcula">
-    <!-- <img align="center" alt="Bruno-Grafic" src="https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Candeu&repo=github-readme-stats& cache_seconds=86400&theme=darcula"> -->
+    <img align="center" alt="Bruno-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candeu&hide_progress=true&theme=darcula">
 </div>
 
 <div style="display: inline_block"><br>
