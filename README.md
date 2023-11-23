@@ -29,5 +29,3 @@ With more than 3 years of experience in the area, I had the opportunity to work 
 </div>
 
 ##
-
-![snake gif](https://github.com/bruno-candeu/bruno-candeu/blob/output/github-contribution-grid-snake.gif)
