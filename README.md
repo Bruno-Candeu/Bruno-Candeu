@@ -1,9 +1,10 @@
 # 👋 Hi there
-
 My name is Bruno Candeu! I'm a software developer and technology enthusiast. I currently work as a Delphi Software Developer. <br>
 With more than 3 years of experience in the area, I had the opportunity to work on several interesting projects and explore different technologies.
 
+##
 
+# 💻 Tech Stack
 <div>
     <img align="center" alt="Bruno-Grafic" src="https://github-readme-stats.vercel.app/api?username=Bruno-Candeu&show_icons=true&theme=darcula">
     <img align="center" style="margin: 15" alt="Bruno-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candeu&hide_progress=true&theme=darcula">
@@ -21,7 +22,8 @@ With more than 3 years of experience in the area, I had the opportunity to work 
 </div>
   
   ##
- 
+
+ # 🌐 Socials:
 <div> 
     <a href="https://instagram.com/bruno_candeu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
     <a href = "mailto:n_udak_21@pm.me"><img src="https://img.shields.io/badge/protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
