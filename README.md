@@ -1,6 +1,5 @@
 ## <h1>Hi there 👋<h1>
-
-<p> i'm Bruno Candeu!</p>
+i'm Bruno Candeu!
 
 
 <div>
