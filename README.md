@@ -1,6 +1,6 @@
 # 👋 Hi there
-My name is Bruno Candeu! I'm a software developer and technology enthusiast. I currently work as a Delphi Software Developer. <br>
-With more than 3 years of experience in the area, I had the opportunity to work on several interesting projects and explore different technologies.
+
+Greetings! I'm Bruno Candeu, a passionate software developer and technology enthusiast with a current role as a Delphi Software Developer. Over the past three years, I've actively contributed to diverse and intriguing projects, allowing me to delve into a variety of cutting-edge technologies.
 
 ##
 
